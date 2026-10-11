@@ -267,6 +267,7 @@
 			<Enum>ТипОтеля</Enum>
 			<Enum>ВидНомера</Enum>
 			<DataProcessor>ЗагрузкаКурсовВалютЦБР</DataProcessor>
+			<InformationRegister>КурсыВалют</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

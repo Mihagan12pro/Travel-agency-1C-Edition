@@ -7,7 +7,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Агенты.Form.ФормаАгенты" id="6b84c109-6e6f-40f1-a5e8-68560b66fe9b" configVersion="c099d8ae742bb9449c4374b95ac8aba200000000"/>
 		<Metadata name="Catalog.Агенты.Form.ФормаАгенты.Form" id="6b84c109-6e6f-40f1-a5e8-68560b66fe9b.0" configVersion="3a8545c910ba5149a990600f4073a80c00000000"/>
-		<Metadata name="Catalog.Валюты" id="663955a7-1c59-4327-b936-f15c179f3cbc" configVersion="2ce2a6f4639be84ab1ad2fb6c74d8cc900000000">
+		<Metadata name="Catalog.Валюты" id="663955a7-1c59-4327-b936-f15c179f3cbc" configVersion="aa498943cc401e44a3c8539cf4b2214a00000000">
+			<Metadata name="Catalog.Валюты.Attribute.Номинал" id="1eb2d51f-dd7e-4301-bedd-aaf2f7ff86ed"/>
 			<Metadata name="Catalog.Валюты.Attribute.СимвольныйКод" id="f84c42df-5399-4dc5-b31f-028f19543fb6"/>
 		</Metadata>
 		<Metadata name="Catalog.Валюты.Form.ФормаВалюты" id="68309577-481f-4923-b925-c0193e895c0b" configVersion="89db75fed919fb4c9aa97a56de2a43a100000000"/>
@@ -77,10 +78,10 @@
 		<Metadata name="CommonModule.ОбщиеПроцедуры.Module" id="5bbb9768-1d32-4273-ab14-abcd253f7eac.0" configVersion="144d1d31454e034c96760554ef5f449500000000"/>
 		<Metadata name="CommonModule.ОбщиеФункции" id="5084ee7f-7dc3-43f7-afdc-e80b98769486" configVersion="d102a1fdc8c87a4aac4b8b1388e0da5e00000000"/>
 		<Metadata name="CommonModule.ОбщиеФункции.Module" id="5084ee7f-7dc3-43f7-afdc-e80b98769486.0" configVersion="e1a363753caf5247a1c2acb7f143063100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="b1a51c10-375a-4ccb-8934-d4beda7ebeef" configVersion="20a464861858e347800705fb1936784a00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="b1a51c10-375a-4ccb-8934-d4beda7ebeef" configVersion="285afdc8fac0d347abce8e0f490c522100000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР" id="adcbd0fa-ff01-4867-92dc-ce67d38eef09" configVersion="18fbd5271cfc474ea11fdbfa0f5efb1e00000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма" id="3897a010-9f70-4629-a5ef-b19ee9558a46" configVersion="3079fbff8a19a34a8d798cfabb649d1f00000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма.Form" id="3897a010-9f70-4629-a5ef-b19ee9558a46.0" configVersion="f1a71e60b701a846a894fe948b7267d200000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма" id="3897a010-9f70-4629-a5ef-b19ee9558a46" configVersion="69509a4c78186443802e3a902ae0281b00000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма.Form" id="3897a010-9f70-4629-a5ef-b19ee9558a46.0" configVersion="58fe296cd19f3d47b930a3a5f39fe7a200000000"/>
 		<Metadata name="Document.Договоры" id="ff48f105-386b-4023-b5fd-f0968060798f" configVersion="9c6d93397f76bd498f6abdff71b075ab00000000">
 			<Metadata name="Document.Договоры.Attribute.Сумма" id="10695445-96e9-4da6-b955-015ed5531bd8"/>
 			<Metadata name="Document.Договоры.TabularSection.МаршрутПоездки.Attribute.ДатаОкончания" id="12a47dd9-6b8e-4c83-880d-13c2a4e114e3"/>
@@ -151,6 +152,10 @@
 			<Metadata name="Enum.ТипОтеля.EnumValue.Лоджи" id="b10bb55e-883c-45bc-9ef3-6b2fe7efb893"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.Мотели" id="d389ee03-bf0c-4009-b7c1-02f2d02c23b6"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.Апартаменты" id="db51d22c-f0f7-4b1d-b8a7-2d935b32321c"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КурсыВалют" id="9ba629ee-1116-46e4-a348-ebdaebc62683" configVersion="95cb9e82abe9344ab0bc13dee9e784b900000000">
+			<Metadata name="InformationRegister.КурсыВалют.Dimension.Валюта" id="6ebed7fa-3167-4b12-a498-820d2e97a2f7"/>
+			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="7d7af841-eea9-450b-9dee-5ca2cf72cac4"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="dba74650-91ae-4685-b2dc-a57b371166c1" configVersion="d81705632dfd614585286a0d519c550500000000"/>
 		<Metadata name="WSReference.КурсыВалютССайтаЦБ" id="2d4ac206-6aff-4cd4-8e66-0ba799055747" configVersion="842d45ad4617424096983bdb1c245d8500000000"/>
