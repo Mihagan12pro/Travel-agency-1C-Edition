@@ -1,22 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Catalog.Агенты" id="a56713c8-571f-45c3-b064-1b428fd9523f" configVersion="71683cd1d0481a4cbdbbf4adc48f21a500000000">
+		<Metadata name="Catalog.Агенты" id="a56713c8-571f-45c3-b064-1b428fd9523f" configVersion="82a82ad3f7e95946982aedcf67bb131000000000">
 			<Metadata name="Catalog.Агенты.Attribute.ФИО" id="d7f21840-f9ad-4900-821e-e8eb1e5501fc"/>
 			<Metadata name="Catalog.Агенты.Attribute.Организация" id="f8535cfe-7d91-4a4b-98ec-488977c1a1c1"/>
 		</Metadata>
-		<Metadata name="Catalog.Агенты.Form.ФормаАгенты" id="6b84c109-6e6f-40f1-a5e8-68560b66fe9b" configVersion="e33dd44f71835247b9d3316b0b400ff800000000"/>
-		<Metadata name="Catalog.Агенты.Form.ФормаАгенты.Form" id="6b84c109-6e6f-40f1-a5e8-68560b66fe9b.0" configVersion="8c26a5adbd2c3640ac004485a527d36600000000"/>
-		<Metadata name="Catalog.Валюты" id="663955a7-1c59-4327-b936-f15c179f3cbc" configVersion="5031f492ff07f348a8e1f4903402b6aa00000000"/>
-		<Metadata name="Catalog.Валюты.Form.ФормаВалюты" id="68309577-481f-4923-b925-c0193e895c0b" configVersion="433d0653dcf09d4a939564b7d0bf7b2b00000000"/>
-		<Metadata name="Catalog.Валюты.Form.ФормаВалюты.Form" id="68309577-481f-4923-b925-c0193e895c0b.0" configVersion="322bccb03b2bdf4b9b37d9eff4a8264a00000000"/>
-		<Metadata name="Catalog.Валюты.Predefined" id="663955a7-1c59-4327-b936-f15c179f3cbc.1c" configVersion="6af1651b65e94b489ddb91687eb2564e00000000"/>
-		<Metadata name="Catalog.Города" id="5e7728aa-5fd9-4491-b764-279adc74708e" configVersion="4fa9d4716737f842861c5e14f79aeede00000000">
+		<Metadata name="Catalog.Агенты.Form.ФормаАгенты" id="6b84c109-6e6f-40f1-a5e8-68560b66fe9b" configVersion="c099d8ae742bb9449c4374b95ac8aba200000000"/>
+		<Metadata name="Catalog.Агенты.Form.ФормаАгенты.Form" id="6b84c109-6e6f-40f1-a5e8-68560b66fe9b.0" configVersion="3a8545c910ba5149a990600f4073a80c00000000"/>
+		<Metadata name="Catalog.Валюты" id="663955a7-1c59-4327-b936-f15c179f3cbc" configVersion="2ce2a6f4639be84ab1ad2fb6c74d8cc900000000">
+			<Metadata name="Catalog.Валюты.Attribute.СимвольныйКод" id="f84c42df-5399-4dc5-b31f-028f19543fb6"/>
+		</Metadata>
+		<Metadata name="Catalog.Валюты.Form.ФормаВалюты" id="68309577-481f-4923-b925-c0193e895c0b" configVersion="89db75fed919fb4c9aa97a56de2a43a100000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаВалюты.Form" id="68309577-481f-4923-b925-c0193e895c0b.0" configVersion="530537e6ad4f4b43b0a842d34163233600000000"/>
+		<Metadata name="Catalog.Валюты.Predefined" id="663955a7-1c59-4327-b936-f15c179f3cbc.1c" configVersion="a73608a88b41ad40b1b03b7ed7a4aa9100000000"/>
+		<Metadata name="Catalog.Города" id="5e7728aa-5fd9-4491-b764-279adc74708e" configVersion="a4854269c9615e4c96cd8c175c0a1be100000000">
 			<Metadata name="Catalog.Города.Attribute.Страна" id="5d267cc9-69d2-49e5-a191-ba7cce4a888e"/>
 		</Metadata>
-		<Metadata name="Catalog.Города.Form.ФормаГорода" id="315aabbb-df58-4827-8de8-e81fe425b03d" configVersion="a6ecb718a6df3c4ca5b282078b18b47500000000"/>
-		<Metadata name="Catalog.Города.Form.ФормаГорода.Form" id="315aabbb-df58-4827-8de8-e81fe425b03d.0" configVersion="b2d4258bd0019947b6e6f297872c0d6100000000"/>
-		<Metadata name="Catalog.Клиенты" id="8fab4ca0-702b-4b30-9433-b1d716887b4b" configVersion="f14001eaa8c1fc419f8fa72b2a358ad000000000">
+		<Metadata name="Catalog.Города.Form.ФормаГорода" id="315aabbb-df58-4827-8de8-e81fe425b03d" configVersion="3e05c1e284349048bee52fde6b9c66d000000000"/>
+		<Metadata name="Catalog.Города.Form.ФормаГорода.Form" id="315aabbb-df58-4827-8de8-e81fe425b03d.0" configVersion="6f00bc8bbb12304aa39816e4596b128d00000000"/>
+		<Metadata name="Catalog.Клиенты" id="8fab4ca0-702b-4b30-9433-b1d716887b4b" configVersion="5eec146968fcc54c939755025db6d8af00000000">
 			<Metadata name="Catalog.Клиенты.Attribute.Пол" id="2379f8e5-d50b-4ddb-b85a-c71c1e93ffa5"/>
 			<Metadata name="Catalog.Клиенты.Attribute.СтараяДатаРождения" id="2f98c156-89ce-49ca-a74e-cbcf5826c0ca"/>
 			<Metadata name="Catalog.Клиенты.Attribute.СтароеФИО" id="38310991-e3b3-421a-81d7-bc39b2d20eaf"/>
@@ -28,23 +30,23 @@
 			<Metadata name="Catalog.Клиенты.Attribute.ДатаРождения" id="f030c0b4-5e0f-4795-9a8b-8bbd3ef3efab"/>
 			<Metadata name="Catalog.Клиенты.Attribute.Фамилия" id="f2f68bca-92ac-4c22-a508-c045aad8bb6a"/>
 		</Metadata>
-		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента" id="3dc90a05-dda8-42f8-920a-57a5fed3becd" configVersion="21427e58676e7d4fb1282cdf96c085b700000000"/>
-		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента.Form" id="3dc90a05-dda8-42f8-920a-57a5fed3becd.0" configVersion="388bf584d442654d86f647bc20f0de3900000000"/>
-		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов" id="c5e01eb1-c120-43ee-9239-140fce55ec33" configVersion="ff4778a81f894f45954608865f53059100000000"/>
-		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов.Form" id="c5e01eb1-c120-43ee-9239-140fce55ec33.0" configVersion="29790d7672831c47b62cd786a0771bbd00000000"/>
-		<Metadata name="Catalog.Организации" id="9a22daba-41d5-492d-ac13-3d133cb6bc09" configVersion="c6614b8974dbba46a82bbc201451f8e200000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаОрганизации" id="3cbfbb5f-a2dd-4e03-b4b8-d647608bf219" configVersion="c43a665af0f95242815d7efa6374473000000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаОрганизации.Form" id="3cbfbb5f-a2dd-4e03-b4b8-d647608bf219.0" configVersion="1bc56eb269e33743a67623bdfdfe515f00000000"/>
-		<Metadata name="Catalog.ОрганыВыдачиДокументов" id="a9613ed0-87f1-4ba1-8e95-7324b37d3b3d" configVersion="79c4df2cc469b24cb38350e1d734cf3e00000000"/>
-		<Metadata name="Catalog.Отели" id="958d47d5-0980-483d-a5cc-dadccf47682d" configVersion="655da5c7fea3014cb0a5cb05e1244af600000000">
+		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента" id="3dc90a05-dda8-42f8-920a-57a5fed3becd" configVersion="8142893be945da49ac917243cbc96f4500000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента.Form" id="3dc90a05-dda8-42f8-920a-57a5fed3becd.0" configVersion="544939c3cd5c2d4a88ed3551ae58851800000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов" id="c5e01eb1-c120-43ee-9239-140fce55ec33" configVersion="ee3b165f801396418826f7dd9967e96900000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов.Form" id="c5e01eb1-c120-43ee-9239-140fce55ec33.0" configVersion="08e0c4d67e92e644ae3eac40c14939a300000000"/>
+		<Metadata name="Catalog.Организации" id="9a22daba-41d5-492d-ac13-3d133cb6bc09" configVersion="afc58320c2472640b4e41c469b0650e000000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаОрганизации" id="3cbfbb5f-a2dd-4e03-b4b8-d647608bf219" configVersion="1f8578adf29350408d8bb1bf1473e7c100000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаОрганизации.Form" id="3cbfbb5f-a2dd-4e03-b4b8-d647608bf219.0" configVersion="4f3677ff49a8dc4c817b548f2b730aae00000000"/>
+		<Metadata name="Catalog.ОрганыВыдачиДокументов" id="a9613ed0-87f1-4ba1-8e95-7324b37d3b3d" configVersion="023c93a9b2f1404195adfc0884ebb20f00000000"/>
+		<Metadata name="Catalog.Отели" id="958d47d5-0980-483d-a5cc-dadccf47682d" configVersion="b5d91edc7593df419789d5fce242946100000000">
 			<Metadata name="Catalog.Отели.Attribute.Тип" id="23245bed-ad8c-470e-8e7b-3514a0308b17"/>
 			<Metadata name="Catalog.Отели.Attribute.Город" id="50aa9886-bb43-4e22-9760-b52d64b0f19f"/>
 			<Metadata name="Catalog.Отели.Attribute.Страна" id="691d44b5-4f47-48e9-b610-811b157246c8"/>
 			<Metadata name="Catalog.Отели.Attribute.Адрес" id="70bf6b49-b176-4112-9c54-94ef169d2990"/>
 		</Metadata>
-		<Metadata name="Catalog.Отели.Form.ФормаОтеля" id="d89a7947-49c9-48a7-8d58-32b14e135069" configVersion="09280bfd9dd24548bb30e50ffbdcaf5000000000"/>
-		<Metadata name="Catalog.Отели.Form.ФормаОтеля.Form" id="d89a7947-49c9-48a7-8d58-32b14e135069.0" configVersion="5b2f2fd2f2399d45b824e4ed6f845d0f00000000"/>
-		<Metadata name="Catalog.ПаспортныеДанные" id="683c2891-4a52-409f-9e68-8e599a8350c5" configVersion="bf4ac5df2047ff4198021380105af17c00000000">
+		<Metadata name="Catalog.Отели.Form.ФормаОтеля" id="d89a7947-49c9-48a7-8d58-32b14e135069" configVersion="1cad785a17137a4d902077593ce60a5700000000"/>
+		<Metadata name="Catalog.Отели.Form.ФормаОтеля.Form" id="d89a7947-49c9-48a7-8d58-32b14e135069.0" configVersion="b9fbab3507fcb14caf5ff2a0075577fd00000000"/>
+		<Metadata name="Catalog.ПаспортныеДанные" id="683c2891-4a52-409f-9e68-8e599a8350c5" configVersion="66d82cb3cb61e6438f5653227780cec000000000">
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.СерияНомер" id="085ef878-370c-4e99-a434-2721fcc45d8a"/>
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.ДатаВыдачи" id="2f2a2caf-766c-44e1-b9d8-ffb2d05b56ea"/>
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.Серия" id="517e7033-726a-45e8-b297-ced8be76cf44"/>
@@ -52,9 +54,9 @@
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.ДатаОкончанияДействия" id="dc7b741d-54ef-469b-a358-5a1b49de144e"/>
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.Номер" id="fe861155-5a95-478d-859e-5f17b9fdb635"/>
 		</Metadata>
-		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835" configVersion="7913eb4afa6749438c0f2b31e465554a00000000"/>
-		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных.Form" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835.0" configVersion="7fd079b04feb5e458f0c6f039b6d6a4f00000000"/>
-		<Metadata name="Catalog.Сотрудники" id="df336835-e2a3-453f-99a8-a07bbcbbf367" configVersion="b00c0c1e93d23c499e111fa99ef14c3600000000">
+		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835" configVersion="6c2491768030434fb35966db327c28b700000000"/>
+		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных.Form" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835.0" configVersion="79a46ec183fdb941b97ca8979d09c19300000000"/>
+		<Metadata name="Catalog.Сотрудники" id="df336835-e2a3-453f-99a8-a07bbcbbf367" configVersion="1dfc8d35ea52a14d9c535f817081cec800000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="0be430ed-86b7-425f-815b-72ac4f3839e2"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.СтараяДатаРождения" id="175f6a72-5440-41da-b743-39004f651e4b"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.СтароеФИО" id="52ec62cd-4874-4724-854f-e149fb49d123"/>
@@ -64,22 +66,22 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="c3d7b52e-8673-4bd0-bdac-8a9d917b0450"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.ФИО" id="cdd42299-4062-47e6-9291-265ecaee77d6"/>
 		</Metadata>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСотрудника" id="46363325-df8d-4bec-aeae-98034f753cb5" configVersion="c4d256be8f5f584285be2e90bfa1b22000000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСотрудника.Form" id="46363325-df8d-4bec-aeae-98034f753cb5.0" configVersion="096660170c2f3848a5c074a7741b5e9a00000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСпискаСотрудников" id="eedfb4c3-7adf-4a35-b3c7-d60423008290" configVersion="f2c511aba898864881f8598fb083c40600000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСпискаСотрудников.Form" id="eedfb4c3-7adf-4a35-b3c7-d60423008290.0" configVersion="f6254737568dc04180f5c73ec52285c900000000"/>
-		<Metadata name="Catalog.Страны" id="b194b2ec-1f3a-4ba4-b6b0-31a0fb151e95" configVersion="6a462f6779983a4690d3dd1de8f1823100000000"/>
-		<Metadata name="Catalog.Страны.Form.ФормаСтраны" id="390d8be3-f0d3-4461-ac45-ebd7485990ef" configVersion="221f755b93d2ea4795cbcc9dfa63b88a00000000"/>
-		<Metadata name="Catalog.Страны.Form.ФормаСтраны.Form" id="390d8be3-f0d3-4461-ac45-ebd7485990ef.0" configVersion="d8a3212b480d1e4d8d99b3f690cc567100000000"/>
-		<Metadata name="CommonModule.ОбщиеПроцедуры" id="5bbb9768-1d32-4273-ab14-abcd253f7eac" configVersion="ddd21efd11ae0f488b778705d77c23cf00000000"/>
-		<Metadata name="CommonModule.ОбщиеПроцедуры.Module" id="5bbb9768-1d32-4273-ab14-abcd253f7eac.0" configVersion="80ece4a0bbca494b95fad8d618f25d9d00000000"/>
-		<Metadata name="CommonModule.ОбщиеФункции" id="5084ee7f-7dc3-43f7-afdc-e80b98769486" configVersion="052c371eb183144191e79a8cd99e353100000000"/>
-		<Metadata name="CommonModule.ОбщиеФункции.Module" id="5084ee7f-7dc3-43f7-afdc-e80b98769486.0" configVersion="56a42f7cacd7f54eb67a42a90cec38e400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="b1a51c10-375a-4ccb-8934-d4beda7ebeef" configVersion="bda0ab5d65f19a4c88237c368bee6d2400000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР" id="adcbd0fa-ff01-4867-92dc-ce67d38eef09" configVersion="a00ceb5773e3d64a8d77f5b241930ddc00000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма" id="3897a010-9f70-4629-a5ef-b19ee9558a46" configVersion="60a66baa88c2d84394c1a0e021bc820800000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма.Form" id="3897a010-9f70-4629-a5ef-b19ee9558a46.0" configVersion="390823185ea8ba4e8bcae2c94f60bf2d00000000"/>
-		<Metadata name="Document.Договоры" id="ff48f105-386b-4023-b5fd-f0968060798f" configVersion="d787f9da61b9a045bf1f44af3d1c6ae000000000">
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСотрудника" id="46363325-df8d-4bec-aeae-98034f753cb5" configVersion="74296462f06d944b8a14c7b4fa42b00500000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСотрудника.Form" id="46363325-df8d-4bec-aeae-98034f753cb5.0" configVersion="264b62100e5abd43b999902e10f5796b00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСпискаСотрудников" id="eedfb4c3-7adf-4a35-b3c7-d60423008290" configVersion="82ee0f3a6696fa4bb1c5b5b1f84c584000000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСпискаСотрудников.Form" id="eedfb4c3-7adf-4a35-b3c7-d60423008290.0" configVersion="18d8ecd30d166c4483b1a55ddfb1b0b500000000"/>
+		<Metadata name="Catalog.Страны" id="b194b2ec-1f3a-4ba4-b6b0-31a0fb151e95" configVersion="2784a3e8706867409696ec0e0a1f92dd00000000"/>
+		<Metadata name="Catalog.Страны.Form.ФормаСтраны" id="390d8be3-f0d3-4461-ac45-ebd7485990ef" configVersion="cf07fc2792adac4e8ea0380bc89e1ac000000000"/>
+		<Metadata name="Catalog.Страны.Form.ФормаСтраны.Form" id="390d8be3-f0d3-4461-ac45-ebd7485990ef.0" configVersion="c491bc9b94ffb14e99fa98b8abb45a1900000000"/>
+		<Metadata name="CommonModule.ОбщиеПроцедуры" id="5bbb9768-1d32-4273-ab14-abcd253f7eac" configVersion="714e605e43d830419d7e7bbb77caa98000000000"/>
+		<Metadata name="CommonModule.ОбщиеПроцедуры.Module" id="5bbb9768-1d32-4273-ab14-abcd253f7eac.0" configVersion="144d1d31454e034c96760554ef5f449500000000"/>
+		<Metadata name="CommonModule.ОбщиеФункции" id="5084ee7f-7dc3-43f7-afdc-e80b98769486" configVersion="d102a1fdc8c87a4aac4b8b1388e0da5e00000000"/>
+		<Metadata name="CommonModule.ОбщиеФункции.Module" id="5084ee7f-7dc3-43f7-afdc-e80b98769486.0" configVersion="e1a363753caf5247a1c2acb7f143063100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="b1a51c10-375a-4ccb-8934-d4beda7ebeef" configVersion="20a464861858e347800705fb1936784a00000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР" id="adcbd0fa-ff01-4867-92dc-ce67d38eef09" configVersion="18fbd5271cfc474ea11fdbfa0f5efb1e00000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма" id="3897a010-9f70-4629-a5ef-b19ee9558a46" configVersion="3079fbff8a19a34a8d798cfabb649d1f00000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма.Form" id="3897a010-9f70-4629-a5ef-b19ee9558a46.0" configVersion="f1a71e60b701a846a894fe948b7267d200000000"/>
+		<Metadata name="Document.Договоры" id="ff48f105-386b-4023-b5fd-f0968060798f" configVersion="9c6d93397f76bd498f6abdff71b075ab00000000">
 			<Metadata name="Document.Договоры.Attribute.Сумма" id="10695445-96e9-4da6-b955-015ed5531bd8"/>
 			<Metadata name="Document.Договоры.TabularSection.МаршрутПоездки.Attribute.ДатаОкончания" id="12a47dd9-6b8e-4c83-880d-13c2a4e114e3"/>
 			<Metadata name="Document.Договоры.Attribute.СтранаПосещения" id="22fd2383-9b6c-4732-941b-52434405bf46"/>
@@ -99,17 +101,17 @@
 			<Metadata name="Document.Договоры.Attribute.НачалоПоездки" id="f5dfd2fa-e5c5-4f55-8676-ad03e6a8cee2"/>
 			<Metadata name="Document.Договоры.Attribute.Соглашение" id="fd938df6-6ae0-4aa0-bb48-71eec71c5946"/>
 		</Metadata>
-		<Metadata name="Document.Договоры.Form.ФормаДоговора" id="38524d68-0e5c-4b0a-99bb-c55f824e1028" configVersion="2dddc50a97ebd046a795b213fbc7e11200000000"/>
-		<Metadata name="Document.Договоры.Form.ФормаДоговора.Form" id="38524d68-0e5c-4b0a-99bb-c55f824e1028.0" configVersion="bbcbb0fc7760624ab66a1930e7058a3700000000"/>
-		<Metadata name="Document.Оплаты" id="19de9b6c-2568-4602-aff5-e54015fd2cef" configVersion="51ef90e7683c194db8f14505a7bdaa4e00000000">
+		<Metadata name="Document.Договоры.Form.ФормаДоговора" id="38524d68-0e5c-4b0a-99bb-c55f824e1028" configVersion="3bf68b5de5639645a66ea4f7fe657fb200000000"/>
+		<Metadata name="Document.Договоры.Form.ФормаДоговора.Form" id="38524d68-0e5c-4b0a-99bb-c55f824e1028.0" configVersion="22fe2f241778d043908201ad61719faa00000000"/>
+		<Metadata name="Document.Оплаты" id="19de9b6c-2568-4602-aff5-e54015fd2cef" configVersion="2de1ebdaed8e2349aec4142c74c6fa0c00000000">
 			<Metadata name="Document.Оплаты.Attribute.Договор" id="3f576f87-7276-4952-bc9f-5df31944f825"/>
 			<Metadata name="Document.Оплаты.Attribute.ДатаОплаты" id="43856256-9c86-4a7d-8ab9-5949d474f454"/>
 			<Metadata name="Document.Оплаты.Attribute.СуммаВРублях" id="7cd9e532-e4f7-4c71-b114-0d6487a3a232"/>
 			<Metadata name="Document.Оплаты.Attribute.Организация" id="85cc3972-7305-4593-a920-59716e988b9d"/>
 		</Metadata>
-		<Metadata name="Document.Оплаты.Form.ФормаОплаты" id="65ad2cf9-f3a6-4f78-8591-b0c1d6ce0932" configVersion="f14131df5aa8ad449d12ed43de5de66d00000000"/>
-		<Metadata name="Document.Оплаты.Form.ФормаОплаты.Form" id="65ad2cf9-f3a6-4f78-8591-b0c1d6ce0932.0" configVersion="c77e833505d6ff4caeaae11d17fd9a9700000000"/>
-		<Metadata name="Document.ПредварительноеСоглашение" id="c2621321-259c-41cb-b1f6-d7ac72cf3b8b" configVersion="070333dda933574caa4db03a020e3b0400000000">
+		<Metadata name="Document.Оплаты.Form.ФормаОплаты" id="65ad2cf9-f3a6-4f78-8591-b0c1d6ce0932" configVersion="39376a7a89a5ba45804a52e81454fafd00000000"/>
+		<Metadata name="Document.Оплаты.Form.ФормаОплаты.Form" id="65ad2cf9-f3a6-4f78-8591-b0c1d6ce0932.0" configVersion="150800b751ce424e8e2d6318d443ddad00000000"/>
+		<Metadata name="Document.ПредварительноеСоглашение" id="c2621321-259c-41cb-b1f6-d7ac72cf3b8b" configVersion="c969436210924242b96f433498d556b000000000">
 			<Metadata name="Document.ПредварительноеСоглашение.Attribute.ЧислоУчастниковПоездки" id="0661a946-7f02-4e03-b902-1c94e91df3f8"/>
 			<Metadata name="Document.ПредварительноеСоглашение.Attribute.Страна" id="51b40fcc-9c3b-4994-9b9b-93ff653511fd"/>
 			<Metadata name="Document.ПредварительноеСоглашение.Attribute.Агент" id="65d24636-793f-425f-9475-a283a67c6650"/>
@@ -118,40 +120,40 @@
 			<Metadata name="Document.ПредварительноеСоглашение.TabularSection.ГородаПосещения" id="e6d3d343-51d2-4ec0-ad88-37470d14a8d2"/>
 			<Metadata name="Document.ПредварительноеСоглашение.Attribute.Организация" id="e821bbe6-c130-4735-9f67-5605e1d138a5"/>
 		</Metadata>
-		<Metadata name="Document.ПредварительноеСоглашение.Form.ФормаПредварительногоСоглашения" id="9b6b28f5-6b1c-485c-98f3-7ce8789eba3a" configVersion="6788d8c637d5a64c96c60ed623829b4600000000"/>
-		<Metadata name="Document.ПредварительноеСоглашение.Form.ФормаПредварительногоСоглашения.Form" id="9b6b28f5-6b1c-485c-98f3-7ce8789eba3a.0" configVersion="291bd16a19636044a522572507e6f5ed00000000"/>
-		<Metadata name="Document.ПредварительноеСоглашение.Form.ФормаСпискаПредварительныхСоглашений" id="7181beff-a49c-41c0-9179-ef176f2606d8" configVersion="1711afc490333e469e65194aee62d4ab00000000"/>
-		<Metadata name="Document.ПредварительноеСоглашение.Form.ФормаСпискаПредварительныхСоглашений.Form" id="7181beff-a49c-41c0-9179-ef176f2606d8.0" configVersion="43c0bbc0a798874294875d58f574f89400000000"/>
-		<Metadata name="Enum.ВидНомера" id="18fe523e-645f-41c4-affe-1609d5cb9b59" configVersion="86617992d718af428cc024a9cdc29bb800000000">
+		<Metadata name="Document.ПредварительноеСоглашение.Form.ФормаПредварительногоСоглашения" id="9b6b28f5-6b1c-485c-98f3-7ce8789eba3a" configVersion="7bc76e3f25fbfb49b8c15eb2c9518a6200000000"/>
+		<Metadata name="Document.ПредварительноеСоглашение.Form.ФормаПредварительногоСоглашения.Form" id="9b6b28f5-6b1c-485c-98f3-7ce8789eba3a.0" configVersion="8e9b0d586f73a941b2d6d92b61eed5c700000000"/>
+		<Metadata name="Document.ПредварительноеСоглашение.Form.ФормаСпискаПредварительныхСоглашений" id="7181beff-a49c-41c0-9179-ef176f2606d8" configVersion="908c1e1f28b3b84bbe282e60474344a600000000"/>
+		<Metadata name="Document.ПредварительноеСоглашение.Form.ФормаСпискаПредварительныхСоглашений.Form" id="7181beff-a49c-41c0-9179-ef176f2606d8.0" configVersion="f0783368c3db56418f7d139fae332fb600000000"/>
+		<Metadata name="Enum.ВидНомера" id="18fe523e-645f-41c4-affe-1609d5cb9b59" configVersion="cc643f53486c8d4c9d4b9efc0691fb2500000000">
 			<Metadata name="Enum.ВидНомера.EnumValue.Пятиместный" id="009d26c6-a0cb-4353-bf80-f1097d64f751"/>
 			<Metadata name="Enum.ВидНомера.EnumValue.Одноместный" id="452f2432-838b-491a-ab1c-f9e244f7ad47"/>
 			<Metadata name="Enum.ВидНомера.EnumValue.Двухместный" id="c207d4cc-e916-4cdf-83b8-53b552aaea9b"/>
 			<Metadata name="Enum.ВидНомера.EnumValue.Четырехместный" id="c4b0b10d-8dc8-43f2-881d-85daff3c8e24"/>
 			<Metadata name="Enum.ВидНомера.EnumValue.Трехместный" id="fd4d079e-7cec-4ab1-8c62-5859abc03c04"/>
 		</Metadata>
-		<Metadata name="Enum.Должности" id="8f57fe0d-bb2c-48a9-bacd-efe5ebcc9813" configVersion="72fb8c4998d211448cd3cf00fe80133a00000000">
+		<Metadata name="Enum.Должности" id="8f57fe0d-bb2c-48a9-bacd-efe5ebcc9813" configVersion="1aed2219ab59854086257d38a674dd9700000000">
 			<Metadata name="Enum.Должности.EnumValue.Бухгалтер" id="0b39a078-3f51-4285-a842-f2376e3e0bb1"/>
 			<Metadata name="Enum.Должности.EnumValue.Администратор" id="2ccddde3-e8a0-4bee-a41b-173651db46c0"/>
 			<Metadata name="Enum.Должности.EnumValue.Менеджер" id="47218281-a0d6-4fc4-9847-4b2de64f578e"/>
 		</Metadata>
-		<Metadata name="Enum.Пол" id="8318e4b5-47bc-48c0-9ee1-382991e7daa8" configVersion="7b9656f23f6541438413c3004fb5a06300000000">
+		<Metadata name="Enum.Пол" id="8318e4b5-47bc-48c0-9ee1-382991e7daa8" configVersion="691ea1439537e246a71bd125c38eff8d00000000">
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="4a5f5ba0-6098-4073-a2df-77a067fe556a"/>
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="c4a03dee-dca2-4285-be9d-c3690799a42e"/>
 		</Metadata>
-		<Metadata name="Enum.СтатусКлиента" id="a802d366-a152-4dad-96d2-b80b7bbbe0f2" configVersion="005b035c94408c488afdbeff81db3f7100000000">
+		<Metadata name="Enum.СтатусКлиента" id="a802d366-a152-4dad-96d2-b80b7bbbe0f2" configVersion="a5f860f08c3887409240f142ea9beef400000000">
 			<Metadata name="Enum.СтатусКлиента.EnumValue.Обычный" id="3d44f397-b428-4522-9f40-82a229a55abd"/>
 			<Metadata name="Enum.СтатусКлиента.EnumValue.Привелегированный" id="5c7efaa6-9b8c-4713-b110-1dd1a977a204"/>
 			<Metadata name="Enum.СтатусКлиента.EnumValue.VIP" id="9acc889e-37ea-46da-b647-f2896177b36a"/>
 		</Metadata>
-		<Metadata name="Enum.ТипОтеля" id="55112438-4eeb-407b-ab75-75d89e02f8ab" configVersion="fc12f11b45a1a64496e6f0d09c90b2d400000000">
+		<Metadata name="Enum.ТипОтеля" id="55112438-4eeb-407b-ab75-75d89e02f8ab" configVersion="6cc66046fa72a04bba8d57a89a6a7d3d00000000">
 			<Metadata name="Enum.ТипОтеля.EnumValue.Гостиницы" id="8cbbdf42-7d4b-4344-8979-2cc2911ec6c8"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.Хостелы" id="a474eb55-6914-4814-b0bd-2fbbe9807771"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.Лоджи" id="b10bb55e-883c-45bc-9ef3-6b2fe7efb893"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.Мотели" id="d389ee03-bf0c-4009-b7c1-02f2d02c23b6"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.Апартаменты" id="db51d22c-f0f7-4b1d-b8a7-2d935b32321c"/>
 		</Metadata>
-		<Metadata name="Language.Русский" id="dba74650-91ae-4685-b2dc-a57b371166c1" configVersion="3cffd5b8e6a7524c94dab94164b3b77200000000"/>
-		<Metadata name="WSReference.КурсыВалютССайтаЦБ" id="2d4ac206-6aff-4cd4-8e66-0ba799055747" configVersion="98c143d7ffd32c4aad39159bed5fc9c500000000"/>
-		<Metadata name="WSReference.КурсыВалютССайтаЦБ.WSDefinition" id="2d4ac206-6aff-4cd4-8e66-0ba799055747.0" configVersion="4b67c07eee221443a2a3be09c84a951100000000"/>
+		<Metadata name="Language.Русский" id="dba74650-91ae-4685-b2dc-a57b371166c1" configVersion="d81705632dfd614585286a0d519c550500000000"/>
+		<Metadata name="WSReference.КурсыВалютССайтаЦБ" id="2d4ac206-6aff-4cd4-8e66-0ba799055747" configVersion="842d45ad4617424096983bdb1c245d8500000000"/>
+		<Metadata name="WSReference.КурсыВалютССайтаЦБ.WSDefinition" id="2d4ac206-6aff-4cd4-8e66-0ba799055747.0" configVersion="c5d6810eb7bf0d448af7cf01fb99e37f00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
