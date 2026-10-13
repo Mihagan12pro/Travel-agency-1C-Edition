@@ -14,6 +14,11 @@
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="СписокКомпоновщикНастроекПользовательскиеНастройкиРасширеннаяПодсказка" id="2"/>
 		</UsualGroup>
+		<Button name="ЗагрузитьДанныеИзExcel" id="22">
+			<Type>UsualButton</Type>
+			<CommandName>0</CommandName>
+			<ExtendedTooltip name="ЗагрузитьДанныеИзExcelРасширеннаяПодсказка" id="23"/>
+		</Button>
 		<Table name="Список" id="3">
 			<Representation>List</Representation>
 			<CommandBarLocation>None</CommandBarLocation>
@@ -117,4 +122,21 @@
 			</Settings>
 		</Attribute>
 	</Attributes>
+	<Commands>
+		<Command name="ЗагрузитьДанныеИзExcel" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить данные из excel</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить данные из excel</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ЗагрузитьДанныеИзExcel</Action>
+		</Command>
+	</Commands>
 </Form>

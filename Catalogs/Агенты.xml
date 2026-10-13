@@ -62,7 +62,7 @@
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<DefaultObjectForm>Catalog.Агенты.Form.ФормаАгенты</DefaultObjectForm>
 			<DefaultFolderForm/>
-			<DefaultListForm/>
+			<DefaultListForm>Catalog.Агенты.Form.ФормаСпискаАгентов</DefaultListForm>
 			<DefaultChoiceForm/>
 			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
@@ -172,6 +172,7 @@
 				</Properties>
 			</Attribute>
 			<Form>ФормаАгенты</Form>
+			<Form>ФормаСпискаАгентов</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
