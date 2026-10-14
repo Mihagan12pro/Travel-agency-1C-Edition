@@ -78,14 +78,16 @@
 		<Metadata name="Catalog.Страны.Form.ФормаСтраны.Form" id="390d8be3-f0d3-4461-ac45-ebd7485990ef.0" configVersion="5011dcc8c860b54f919cb3ed383f15bb00000000"/>
 		<Metadata name="CommonModule.ОбщиеПроцедуры" id="5bbb9768-1d32-4273-ab14-abcd253f7eac" configVersion="366f5fb13d16af4dab69f19e6290de1100000000"/>
 		<Metadata name="CommonModule.ОбщиеПроцедуры.Module" id="5bbb9768-1d32-4273-ab14-abcd253f7eac.0" configVersion="9ad5183208dd2643a5187af4703d735800000000"/>
+		<Metadata name="CommonModule.ОбщиеСерверныеПроцедуры" id="077ac9db-96f8-4f94-b279-c024d19925af" configVersion="38fbc293edfb324da372f14421958b1800000000"/>
+		<Metadata name="CommonModule.ОбщиеСерверныеПроцедуры.Module" id="077ac9db-96f8-4f94-b279-c024d19925af.0" configVersion="b8a45dfa266c544db06b04f08bee2f8400000000"/>
 		<Metadata name="CommonModule.ОбщиеФункции" id="5084ee7f-7dc3-43f7-afdc-e80b98769486" configVersion="b47779cb6147dc4e8089b3cd4ed86f1a00000000"/>
 		<Metadata name="CommonModule.ОбщиеФункции.Module" id="5084ee7f-7dc3-43f7-afdc-e80b98769486.0" configVersion="bce702274f5b20488af1f3769314391b00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="b1a51c10-375a-4ccb-8934-d4beda7ebeef" configVersion="3ad1d426b78d4444be42a31ecd160b0200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="b1a51c10-375a-4ccb-8934-d4beda7ebeef" configVersion="eba1e97f98d86b4cb9664157c1ad7e9300000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаИзЭксель" id="fa404c44-726c-415a-8b37-04ef57c055d7" configVersion="ba7704f67f6dce438aa7a6d0be64339d00000000">
 			<Metadata name="DataProcessor.ЗагрузкаИзЭксель.Attribute.ОбъектЗагрузки" id="f8c28a2c-2e7b-416f-a531-c4f7f1e32e97"/>
 		</Metadata>
-		<Metadata name="DataProcessor.ЗагрузкаИзЭксель.Form.Форма" id="92dfa526-15c7-473a-9b1b-7e8da0d091c0" configVersion="b9f59719eccb7849bc32c48b20d557c700000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаИзЭксель.Form.Форма.Form" id="92dfa526-15c7-473a-9b1b-7e8da0d091c0.0" configVersion="96e4fa5e5d8251409463fa785249022e00000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзЭксель.Form.Форма" id="92dfa526-15c7-473a-9b1b-7e8da0d091c0" configVersion="26302a1a3301104b8b2028b6471b03b000000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзЭксель.Form.Форма.Form" id="92dfa526-15c7-473a-9b1b-7e8da0d091c0.0" configVersion="372981163753f047a855ef772b70387400000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР" id="adcbd0fa-ff01-4867-92dc-ce67d38eef09" configVersion="90c729806dd845498b3006d8c540637100000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма" id="3897a010-9f70-4629-a5ef-b19ee9558a46" configVersion="243678719c065d4f866cb2e0820db4ca00000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма.Form" id="3897a010-9f70-4629-a5ef-b19ee9558a46.0" configVersion="6dd4b3cde4994749b545b72eb2cd671400000000"/>
