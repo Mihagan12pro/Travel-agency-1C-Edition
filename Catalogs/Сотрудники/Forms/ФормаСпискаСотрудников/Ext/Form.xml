@@ -16,7 +16,13 @@
 		</UsualGroup>
 		<Button name="ЗагрузитьДанныеИзExcel" id="22">
 			<Type>UsualButton</Type>
-			<CommandName>0</CommandName>
+			<CommandName>Form.Command.ЗагрузитьДанныеИзExcel</CommandName>
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Импортировать из Excel</v8:content>
+				</v8:item>
+			</Title>
 			<ExtendedTooltip name="ЗагрузитьДанныеИзExcelРасширеннаяПодсказка" id="23"/>
 		</Button>
 		<Table name="Список" id="3">

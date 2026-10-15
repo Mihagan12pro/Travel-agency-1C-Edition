@@ -38,61 +38,73 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
-			<EnumValue uuid="8cbbdf42-7d4b-4344-8979-2cc2911ec6c8">
+			<EnumValue uuid="ed0ab45a-94f5-4449-9fd6-fcd3188f2321">
 				<Properties>
-					<Name>Гостиницы</Name>
+					<Name>ОднаЗвезда</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Гостиницы</v8:content>
+							<v8:content>Одна звезда</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="db51d22c-f0f7-4b1d-b8a7-2d935b32321c">
+			<EnumValue uuid="98214a6e-750a-448c-8e88-3d708e6c7d3c">
+				<Properties>
+					<Name>ДвеЗвезды</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Две звезды</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="55e8a106-bfbb-4ceb-8bf1-090e733573c6">
+				<Properties>
+					<Name>ТриЗвезды</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Три звезды</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="de1dc246-b443-4665-a6c6-e1a464f23993">
+				<Properties>
+					<Name>ЧетыреЗвезды</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Четыре звезды</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2199ef1d-f6cc-4345-983c-4bd93b488cc9">
+				<Properties>
+					<Name>ПятьЗвезды</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пять звезды</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b1ea9baa-5fdd-4331-9f21-3772572a0c5d">
 				<Properties>
 					<Name>Апартаменты</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Апартаменты</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-				</Properties>
-			</EnumValue>
-			<EnumValue uuid="a474eb55-6914-4814-b0bd-2fbbe9807771">
-				<Properties>
-					<Name>Хостелы</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Хостелы</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-				</Properties>
-			</EnumValue>
-			<EnumValue uuid="d389ee03-bf0c-4009-b7c1-02f2d02c23b6">
-				<Properties>
-					<Name>Мотели</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Мотели</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-				</Properties>
-			</EnumValue>
-			<EnumValue uuid="b10bb55e-883c-45bc-9ef3-6b2fe7efb893">
-				<Properties>
-					<Name>Лоджи</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Лоджи</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

@@ -14,6 +14,11 @@
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="СписокКомпоновщикНастроекПользовательскиеНастройкиРасширеннаяПодсказка" id="2"/>
 		</UsualGroup>
+		<Button name="ЗагрузитьКлиентов" id="22">
+			<Type>UsualButton</Type>
+			<CommandName>0</CommandName>
+			<ExtendedTooltip name="ЗагрузитьКлиентовРасширеннаяПодсказка" id="23"/>
+		</Button>
 		<Table name="Список" id="3">
 			<Representation>List</Representation>
 			<CommandBarLocation>None</CommandBarLocation>

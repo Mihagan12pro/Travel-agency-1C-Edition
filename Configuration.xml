@@ -269,7 +269,6 @@
 			<Enum>ВидНомера</Enum>
 			<Enum>ТипыЗагрузкиExcel</Enum>
 			<DataProcessor>ЗагрузкаКурсовВалютЦБР</DataProcessor>
-			<DataProcessor>ЗагрузкаИзЭксель</DataProcessor>
 			<InformationRegister>КурсыВалют</InformationRegister>
 		</ChildObjects>
 	</Configuration>
