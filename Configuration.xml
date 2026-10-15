@@ -247,7 +247,8 @@
 			<Language>Русский</Language>
 			<CommonModule>ОбщиеФункции</CommonModule>
 			<CommonModule>ОбщиеПроцедуры</CommonModule>
-			<CommonModule>ОбщиеСерверныеПроцедуры</CommonModule>
+			<CommonModule>ОбщиеАсинхФункции</CommonModule>
+			<CommonModule>ОбщиеСерверныеФункции</CommonModule>
 			<WSReference>КурсыВалютССайтаЦБ</WSReference>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>ОрганыВыдачиДокументов</Catalog>

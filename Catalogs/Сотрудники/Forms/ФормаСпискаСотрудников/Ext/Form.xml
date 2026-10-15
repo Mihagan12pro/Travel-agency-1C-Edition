@@ -142,7 +142,7 @@
 					<v8:content>Загрузить данные из excel</v8:content>
 				</v8:item>
 			</ToolTip>
-			<Action>ЗагрузитьДанныеИзExcel</Action>
+			<Action>ИмпортироватьИзExcel</Action>
 		</Command>
 	</Commands>
 </Form>
