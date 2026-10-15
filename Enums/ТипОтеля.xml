@@ -88,11 +88,11 @@
 			</EnumValue>
 			<EnumValue uuid="2199ef1d-f6cc-4345-983c-4bd93b488cc9">
 				<Properties>
-					<Name>ПятьЗвезды</Name>
+					<Name>ПятьЗвезд</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Пять звезды</v8:content>
+							<v8:content>Пять звезд</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
