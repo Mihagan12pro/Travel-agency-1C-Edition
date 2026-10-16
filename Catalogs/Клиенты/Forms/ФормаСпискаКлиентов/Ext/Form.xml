@@ -14,10 +14,16 @@
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="СписокКомпоновщикНастроекПользовательскиеНастройкиРасширеннаяПодсказка" id="2"/>
 		</UsualGroup>
-		<Button name="ЗагрузитьКлиентов" id="22">
+		<Button name="Импорт" id="22">
 			<Type>UsualButton</Type>
-			<CommandName>0</CommandName>
-			<ExtendedTooltip name="ЗагрузитьКлиентовРасширеннаяПодсказка" id="23"/>
+			<CommandName>Form.Command.Импорт</CommandName>
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Импорт из Excel...</v8:content>
+				</v8:item>
+			</Title>
+			<ExtendedTooltip name="ИмпортРасширеннаяПодсказка" id="23"/>
 		</Button>
 		<Table name="Список" id="3">
 			<Representation>List</Representation>
@@ -122,4 +128,21 @@
 			</Settings>
 		</Attribute>
 	</Attributes>
+	<Commands>
+		<Command name="Импорт" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Импорт</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Импорт</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ИмпортироватьИзExcel</Action>
+		</Command>
+	</Commands>
 </Form>
