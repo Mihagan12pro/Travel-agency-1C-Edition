@@ -35,8 +35,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента" id="3dc90a05-dda8-42f8-920a-57a5fed3becd" configVersion="fc47255b010b2c46975c5dfb74eac1b900000000"/>
 		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента.Form" id="3dc90a05-dda8-42f8-920a-57a5fed3becd.0" configVersion="ae89c31df6ad2542a854e6beaf1fc3c100000000"/>
-		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов" id="c5e01eb1-c120-43ee-9239-140fce55ec33" configVersion="c9cb317e868ac44a984c5aa360cf29a400000000"/>
-		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов.Form" id="c5e01eb1-c120-43ee-9239-140fce55ec33.0" configVersion="336bd77a1255b14fa65bdddf44b01dde00000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов" id="c5e01eb1-c120-43ee-9239-140fce55ec33" configVersion="b20cbc301bfdf140b9eeef04805ee6db00000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов.Form" id="c5e01eb1-c120-43ee-9239-140fce55ec33.0" configVersion="bd2b31a8d08a374b9a9d31350a22594600000000"/>
 		<Metadata name="Catalog.Организации" id="9a22daba-41d5-492d-ac13-3d133cb6bc09" configVersion="4057499fb595f947a569ec7bba8ee6ff00000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаОрганизации" id="3cbfbb5f-a2dd-4e03-b4b8-d647608bf219" configVersion="32bc930d5dd96241b6abad1cae2e0b5000000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаОрганизации.Form" id="3cbfbb5f-a2dd-4e03-b4b8-d647608bf219.0" configVersion="180e8838cdc9834f9a9d8b5a498f8e5c00000000"/>
@@ -51,16 +51,15 @@
 		<Metadata name="Catalog.Отели.Form.ФормаОтеля.Form" id="d89a7947-49c9-48a7-8d58-32b14e135069.0" configVersion="86afbe1f74a26145ac558a0eef8fae3e00000000"/>
 		<Metadata name="Catalog.Отели.Form.ФормаСпискаОтелей" id="88e24238-980e-4345-bccc-61573bcc44ac" configVersion="f1514ab82a9613458d89864fa0e8fe6300000000"/>
 		<Metadata name="Catalog.Отели.Form.ФормаСпискаОтелей.Form" id="88e24238-980e-4345-bccc-61573bcc44ac.0" configVersion="3f0d9896dd31ea48a9b2978b4446035a00000000"/>
-		<Metadata name="Catalog.ПаспортныеДанные" id="683c2891-4a52-409f-9e68-8e599a8350c5" configVersion="d22b4ab77123834da3f385d35478bb3400000000">
-			<Metadata name="Catalog.ПаспортныеДанные.Attribute.СерияНомер" id="085ef878-370c-4e99-a434-2721fcc45d8a"/>
+		<Metadata name="Catalog.ПаспортныеДанные" id="683c2891-4a52-409f-9e68-8e599a8350c5" configVersion="3dbb6a8b7fb24046891bf97b4a63f2d900000000">
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.ДатаВыдачи" id="2f2a2caf-766c-44e1-b9d8-ffb2d05b56ea"/>
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.Серия" id="517e7033-726a-45e8-b297-ced8be76cf44"/>
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.ОрганВыдавшийДокумент" id="849fba8d-aa67-40f0-846f-0a32504915cc"/>
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.ДатаОкончанияДействия" id="dc7b741d-54ef-469b-a358-5a1b49de144e"/>
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.Номер" id="fe861155-5a95-478d-859e-5f17b9fdb635"/>
 		</Metadata>
-		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835" configVersion="8d8c25aa54afe040a513491f04dfce1600000000"/>
-		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных.Form" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835.0" configVersion="012ab08bd72cef4a8f32723e8074165700000000"/>
+		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835" configVersion="aa7ea38f4dcd754080964db5faab7d2b00000000"/>
+		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных.Form" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835.0" configVersion="c2349ed5e1658d4c9d6e0d873c9d1bbb00000000"/>
 		<Metadata name="Catalog.Сотрудники" id="df336835-e2a3-453f-99a8-a07bbcbbf367" configVersion="4005fbfe9084cc4db0121a6307c2bd6c00000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="0be430ed-86b7-425f-815b-72ac4f3839e2"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.СтараяДатаРождения" id="175f6a72-5440-41da-b743-39004f651e4b"/>
