@@ -39,7 +39,7 @@
 		<Metadata name="Catalog.Организации.Form.ФормаОрганизации" id="3cbfbb5f-a2dd-4e03-b4b8-d647608bf219" configVersion="a597dbb006c7f84bac08982b807941fb00000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаОрганизации.Form" id="3cbfbb5f-a2dd-4e03-b4b8-d647608bf219.0" configVersion="823fe8da046dc041b4dcbd888d5159ee00000000"/>
 		<Metadata name="Catalog.ОрганыВыдачиДокументов" id="a9613ed0-87f1-4ba1-8e95-7324b37d3b3d" configVersion="aeeeb3e3fc50fc4c90567eddea60febe00000000"/>
-		<Metadata name="Catalog.Отели" id="958d47d5-0980-483d-a5cc-dadccf47682d" configVersion="e085d080ef507148b15bc03d727cc22d00000000">
+		<Metadata name="Catalog.Отели" id="958d47d5-0980-483d-a5cc-dadccf47682d" configVersion="85bb3b1ab2aae245913f3f9e8241e0cb00000000">
 			<Metadata name="Catalog.Отели.Attribute.Тип" id="23245bed-ad8c-470e-8e7b-3514a0308b17"/>
 			<Metadata name="Catalog.Отели.Attribute.Город" id="50aa9886-bb43-4e22-9760-b52d64b0f19f"/>
 			<Metadata name="Catalog.Отели.Attribute.Страна" id="691d44b5-4f47-48e9-b610-811b157246c8"/>
@@ -47,6 +47,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Отели.Form.ФормаОтеля" id="d89a7947-49c9-48a7-8d58-32b14e135069" configVersion="c1f9f3c75c2a794ea714a888259ff27f00000000"/>
 		<Metadata name="Catalog.Отели.Form.ФормаОтеля.Form" id="d89a7947-49c9-48a7-8d58-32b14e135069.0" configVersion="3f5ecffbbc382b468e201bb819eb11a200000000"/>
+		<Metadata name="Catalog.Отели.Form.ФормаСпискаОтелей" id="9796f825-53dc-4895-ae9e-53b399d30b11" configVersion="42d22a27ed629c4985b1aa58969172b400000000"/>
+		<Metadata name="Catalog.Отели.Form.ФормаСпискаОтелей.Form" id="9796f825-53dc-4895-ae9e-53b399d30b11.0" configVersion="cb9c528c4b667c42a0c5bd20390f9d3c00000000"/>
 		<Metadata name="Catalog.ПаспортныеДанные" id="683c2891-4a52-409f-9e68-8e599a8350c5" configVersion="8664ed02a3acd940b7f9c84e009945ce00000000">
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.СерияНомер" id="085ef878-370c-4e99-a434-2721fcc45d8a"/>
 			<Metadata name="Catalog.ПаспортныеДанные.Attribute.ДатаВыдачи" id="2f2a2caf-766c-44e1-b9d8-ffb2d05b56ea"/>
@@ -146,8 +148,8 @@
 			<Metadata name="Enum.СтатусКлиента.EnumValue.Привелегированный" id="5c7efaa6-9b8c-4713-b110-1dd1a977a204"/>
 			<Metadata name="Enum.СтатусКлиента.EnumValue.VIP" id="9acc889e-37ea-46da-b647-f2896177b36a"/>
 		</Metadata>
-		<Metadata name="Enum.ТипОтеля" id="55112438-4eeb-407b-ab75-75d89e02f8ab" configVersion="b8c550872c8c95459f2e83edda0781ef00000000">
-			<Metadata name="Enum.ТипОтеля.EnumValue.ПятьЗвезды" id="2199ef1d-f6cc-4345-983c-4bd93b488cc9"/>
+		<Metadata name="Enum.ТипОтеля" id="55112438-4eeb-407b-ab75-75d89e02f8ab" configVersion="6bb7f3ce2fb55748b5c8ae28fc97b93d00000000">
+			<Metadata name="Enum.ТипОтеля.EnumValue.ПятьЗвезд" id="2199ef1d-f6cc-4345-983c-4bd93b488cc9"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.ТриЗвезды" id="55e8a106-bfbb-4ceb-8bf1-090e733573c6"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.ДвеЗвезды" id="98214a6e-750a-448c-8e88-3d708e6c7d3c"/>
 			<Metadata name="Enum.ТипОтеля.EnumValue.Апартаменты" id="b1ea9baa-5fdd-4331-9f21-3772572a0c5d"/>
