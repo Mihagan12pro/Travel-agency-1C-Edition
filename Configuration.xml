@@ -248,6 +248,7 @@
 			<CommonModule>ОбщиеФункции</CommonModule>
 			<CommonModule>ОбщиеПроцедуры</CommonModule>
 			<CommonModule>ОбщиеСерверныеПроцедуры</CommonModule>
+			<CommonModule>ОбщиеСерверныеФункции</CommonModule>
 			<WSReference>КурсыВалютССайтаЦБ</WSReference>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>ОрганыВыдачиДокументов</Catalog>

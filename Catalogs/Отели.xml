@@ -62,7 +62,7 @@
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<DefaultObjectForm>Catalog.Отели.Form.ФормаОтеля</DefaultObjectForm>
 			<DefaultFolderForm/>
-			<DefaultListForm/>
+			<DefaultListForm>Catalog.Отели.Form.ФормаСпискаОтелей</DefaultListForm>
 			<DefaultChoiceForm/>
 			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
@@ -252,6 +252,7 @@
 				</Properties>
 			</Attribute>
 			<Form>ФормаОтеля</Form>
+			<Form>ФормаСпискаОтелей</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
