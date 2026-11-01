@@ -21,10 +21,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Города.Form.ФормаГорода" id="315aabbb-df58-4827-8de8-e81fe425b03d" configVersion="e979ec358f789747bd5075921f48e6df00000000"/>
 		<Metadata name="Catalog.Города.Form.ФормаГорода.Form" id="315aabbb-df58-4827-8de8-e81fe425b03d.0" configVersion="6a4928dbe892704eb991dca1ecf5283d00000000"/>
-		<Metadata name="Catalog.Клиенты" id="8fab4ca0-702b-4b30-9433-b1d716887b4b" configVersion="9a184cea0a6a334d8884c95e3c5797e600000000">
+		<Metadata name="Catalog.Клиенты" id="8fab4ca0-702b-4b30-9433-b1d716887b4b" configVersion="2ac5372091f5244da3dbf5a54139c49a00000000">
 			<Metadata name="Catalog.Клиенты.Attribute.Пол" id="2379f8e5-d50b-4ddb-b85a-c71c1e93ffa5"/>
-			<Metadata name="Catalog.Клиенты.Attribute.СтараяДатаРождения" id="2f98c156-89ce-49ca-a74e-cbcf5826c0ca"/>
-			<Metadata name="Catalog.Клиенты.Attribute.СтароеФИО" id="38310991-e3b3-421a-81d7-bc39b2d20eaf"/>
 			<Metadata name="Catalog.Клиенты.Attribute.Отчество" id="3f3ff7bb-0100-45ee-9d85-03682388dfca"/>
 			<Metadata name="Catalog.Клиенты.Attribute.Имя" id="750d0c8e-82b5-4912-872a-f78437e758f8"/>
 			<Metadata name="Catalog.Клиенты.Attribute.СтатусКлиента" id="87e11545-0206-42f5-a86c-99d302f927f5"/>
@@ -33,8 +31,8 @@
 			<Metadata name="Catalog.Клиенты.Attribute.ДатаРождения" id="f030c0b4-5e0f-4795-9a8b-8bbd3ef3efab"/>
 			<Metadata name="Catalog.Клиенты.Attribute.Фамилия" id="f2f68bca-92ac-4c22-a508-c045aad8bb6a"/>
 		</Metadata>
-		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента" id="3dc90a05-dda8-42f8-920a-57a5fed3becd" configVersion="70820a8a9445b7448f00e77ba8d0bcdd00000000"/>
-		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента.Form" id="3dc90a05-dda8-42f8-920a-57a5fed3becd.0" configVersion="3cbdef5c4a96fe4e87c0ed7537b0b58d00000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента" id="3dc90a05-dda8-42f8-920a-57a5fed3becd" configVersion="8552971f4adff548b1ea4fd55f816df500000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента.Form" id="3dc90a05-dda8-42f8-920a-57a5fed3becd.0" configVersion="c90c1fe84ac7b24081bd91afdda408a800000000"/>
 		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов" id="c5e01eb1-c120-43ee-9239-140fce55ec33" configVersion="7f65d7b12654eb46b5ed60b8dd9b78bb00000000"/>
 		<Metadata name="Catalog.Клиенты.Form.ФормаСпискаКлиентов.Form" id="c5e01eb1-c120-43ee-9239-140fce55ec33.0" configVersion="bd0fa6b0554adc43bf20f9ad53223f5f00000000"/>
 		<Metadata name="Catalog.Организации" id="9a22daba-41d5-492d-ac13-3d133cb6bc09" configVersion="3f48649bbb9ab44080efcf4b36e79ad900000000"/>
@@ -59,20 +57,18 @@
 		</Metadata>
 		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835" configVersion="dd25f1179882df48958896fae7926d5100000000"/>
 		<Metadata name="Catalog.ПаспортныеДанные.Form.ФормаПаспортныхДанных.Form" id="a65251e5-9122-4fb9-a4df-7c07a9bd3835.0" configVersion="e0164bb4e69a5c4dbbeaf8c9e8dbd32100000000"/>
-		<Metadata name="Catalog.Сотрудники" id="df336835-e2a3-453f-99a8-a07bbcbbf367" configVersion="d558cd74bfe30045b723fefc082fe45200000000">
+		<Metadata name="Catalog.Сотрудники" id="df336835-e2a3-453f-99a8-a07bbcbbf367" configVersion="cd06797530a65c4c8ba0d5eec65bba2b00000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="0be430ed-86b7-425f-815b-72ac4f3839e2"/>
-			<Metadata name="Catalog.Сотрудники.Attribute.СтараяДатаРождения" id="175f6a72-5440-41da-b743-39004f651e4b"/>
-			<Metadata name="Catalog.Сотрудники.Attribute.СтароеФИО" id="52ec62cd-4874-4724-854f-e149fb49d123"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Фамилия" id="815e01b0-fbd4-4901-a535-6f8e19db32d7"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="8cc38a13-86f7-4402-aa2e-1399932b0c5e"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="b36b9223-80bd-42b3-8ff1-77af63a1de5a"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="c3d7b52e-8673-4bd0-bdac-8a9d917b0450"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.ФИО" id="cdd42299-4062-47e6-9291-265ecaee77d6"/>
 		</Metadata>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСотрудника" id="46363325-df8d-4bec-aeae-98034f753cb5" configVersion="43382ae3238f5742bd5e33d4bfda433f00000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСотрудника.Form" id="46363325-df8d-4bec-aeae-98034f753cb5.0" configVersion="00e5840e44c1bd4085c018f28682d17400000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСпискаСотрудников" id="eedfb4c3-7adf-4a35-b3c7-d60423008290" configVersion="6920ed4bab4c1e48bdbe30235cc9ab6200000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСпискаСотрудников.Form" id="eedfb4c3-7adf-4a35-b3c7-d60423008290.0" configVersion="2cfc35d36548524cbc990f1525529f3000000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСотрудника" id="46363325-df8d-4bec-aeae-98034f753cb5" configVersion="8fdbaee8d5e0d849876ad0cc17fad3dc00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСотрудника.Form" id="46363325-df8d-4bec-aeae-98034f753cb5.0" configVersion="5dbd9f218bbbce4c85fef88e3b5db0ed00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСпискаСотрудников" id="eedfb4c3-7adf-4a35-b3c7-d60423008290" configVersion="17c93ed60d11e44b8442ee9338a3a63600000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСпискаСотрудников.Form" id="eedfb4c3-7adf-4a35-b3c7-d60423008290.0" configVersion="dde4528081a16d4b893c4786ab2bc36900000000"/>
 		<Metadata name="Catalog.Страны" id="b194b2ec-1f3a-4ba4-b6b0-31a0fb151e95" configVersion="1a63c29bf28e004b8a781d7403c5942e00000000"/>
 		<Metadata name="Catalog.Страны.Form.ФормаСтраны" id="390d8be3-f0d3-4461-ac45-ebd7485990ef" configVersion="4bced70bb41f274fbd434bbea63400fa00000000"/>
 		<Metadata name="Catalog.Страны.Form.ФормаСтраны.Form" id="390d8be3-f0d3-4461-ac45-ebd7485990ef.0" configVersion="4d05a5c65ab34d4da9e3591b65444daa00000000"/>
