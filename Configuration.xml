@@ -245,6 +245,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Role>Администратор</Role>
+			<Role>Менеджер</Role>
+			<Role>Бухгалтер</Role>
 			<CommonModule>ОбщиеФункции</CommonModule>
 			<CommonModule>ОбщиеПроцедуры</CommonModule>
 			<CommonModule>ОбщиеСерверныеПроцедуры</CommonModule>
