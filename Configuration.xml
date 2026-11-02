@@ -245,6 +245,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Администрирование</Subsystem>
+			<Subsystem>Менеджмент</Subsystem>
+			<Subsystem>Бухгалтерия</Subsystem>
 			<Role>Администратор</Role>
 			<Role>Менеджер</Role>
 			<Role>Бухгалтер</Role>
