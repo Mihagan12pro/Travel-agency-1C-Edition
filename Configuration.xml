@@ -260,7 +260,7 @@
 			<Catalog>Организации</Catalog>
 			<Catalog>Агенты</Catalog>
 			<Catalog>Валюты</Catalog>
-			<Document>ПредварительноеСоглашение</Document>
+			<Document>ПредварительныеСоглашения</Document>
 			<Document>Договоры</Document>
 			<Document>Оплаты</Document>
 			<Enum>Пол</Enum>

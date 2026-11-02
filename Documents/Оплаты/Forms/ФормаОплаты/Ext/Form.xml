@@ -4,36 +4,68 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
+	</Events>
 	<ChildItems>
-		<InputField name="Номер" id="1">
-			<DataPath>Объект.Number</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ContextMenu name="НомерКонтекстноеМеню" id="2"/>
-			<ExtendedTooltip name="НомерРасширеннаяПодсказка" id="3"/>
-		</InputField>
-		<InputField name="ДатаОплаты" id="7">
-			<DataPath>Объект.ДатаОплаты</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ContextMenu name="ДатаОплатыКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="ДатаОплатыРасширеннаяПодсказка" id="9"/>
-		</InputField>
-		<InputField name="Организация" id="10">
-			<DataPath>Объект.Организация</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ContextMenu name="ОрганизацияКонтекстноеМеню" id="11"/>
-			<ExtendedTooltip name="ОрганизацияРасширеннаяПодсказка" id="12"/>
-		</InputField>
-		<InputField name="Договор" id="13">
+		<UsualGroup name="Шапка" id="16">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Шапка</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Шапка</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ШапкаРасширеннаяПодсказка" id="17"/>
+			<ChildItems>
+				<InputField name="Номер" id="1">
+					<DataPath>Объект.Number</DataPath>
+					<ReadOnly>true</ReadOnly>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="НомерКонтекстноеМеню" id="2"/>
+					<ExtendedTooltip name="НомерРасширеннаяПодсказка" id="3"/>
+				</InputField>
+				<InputField name="Дата" id="4">
+					<DataPath>Объект.Date</DataPath>
+					<ReadOnly>true</ReadOnly>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ДатаКонтекстноеМеню" id="5"/>
+					<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="6"/>
+				</InputField>
+			</ChildItems>
+		</UsualGroup>
+		<InputField name="Договор" id="10">
 			<DataPath>Объект.Договор</DataPath>
 			<EditMode>EnterOnInput</EditMode>
-			<ContextMenu name="ДоговорКонтекстноеМеню" id="14"/>
-			<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="15"/>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ДоговорКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="12"/>
+			<Events>
+				<Event name="ChoiceProcessing">ПриВыбореДоговора</Event>
+			</Events>
 		</InputField>
-		<InputField name="СуммаВРублях" id="16">
+		<InputField name="Организация" id="7">
+			<DataPath>Объект.Организация</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ОрганизацияКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="ОрганизацияРасширеннаяПодсказка" id="9"/>
+		</InputField>
+		<InputField name="СуммаВРублях" id="13">
 			<DataPath>Объект.СуммаВРублях</DataPath>
 			<EditMode>EnterOnInput</EditMode>
-			<ContextMenu name="СуммаВРубляхКонтекстноеМеню" id="17"/>
-			<ExtendedTooltip name="СуммаВРубляхРасширеннаяПодсказка" id="18"/>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="СуммаВРубляхКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="СуммаВРубляхРасширеннаяПодсказка" id="15"/>
 		</InputField>
 	</ChildItems>
 	<Attributes>
