@@ -85,11 +85,20 @@
 		<Metadata name="CommonModule.ОбщиеСерверныеФункции.Module" id="209da246-6013-45bb-9a5e-fe3b5db866cb.0" configVersion="2cbbd95f8a5f564e974575a77a9733e200000000"/>
 		<Metadata name="CommonModule.ОбщиеФункции" id="5084ee7f-7dc3-43f7-afdc-e80b98769486" configVersion="947e121fbda0274eaa656b1fa60c33b300000000"/>
 		<Metadata name="CommonModule.ОбщиеФункции.Module" id="5084ee7f-7dc3-43f7-afdc-e80b98769486.0" configVersion="fc166f3d27753745bdc756b1acd0014200000000"/>
-		<Metadata name="Configuration.Конфигурация" id="b1a51c10-375a-4ccb-8934-d4beda7ebeef" configVersion="7ac269bf5d04bc48b1241d73772c0d4200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="b1a51c10-375a-4ccb-8934-d4beda7ebeef" configVersion="1b720e8b7cacd94191f8a2b98e3d692c00000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР" id="adcbd0fa-ff01-4867-92dc-ce67d38eef09" configVersion="65d04fb557deb147925a2943ae15226900000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма" id="3897a010-9f70-4629-a5ef-b19ee9558a46" configVersion="e96aed106a57d24e8854499a6448571600000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма.Form" id="3897a010-9f70-4629-a5ef-b19ee9558a46.0" configVersion="08cc1336eb707748bebbc4cffc00f15600000000"/>
-		<Metadata name="Document.Ваучер" id="3ff4913b-6333-4fb8-ab34-4e43782f1a3d" configVersion="4b774f51395ef8498e696be2df313bc600000000"/>
+		<Metadata name="Document.Ваучер" id="3ff4913b-6333-4fb8-ab34-4e43782f1a3d" configVersion="b673c8f7bd539a4489175926e893bb5a00000000">
+			<Metadata name="Document.Ваучер.Attribute.Кровать" id="2a016e75-8174-4bd9-a713-00f2dda798f2"/>
+			<Metadata name="Document.Ваучер.Attribute.ВремяВыезда" id="4137bb72-0a58-48f4-a92b-a3444d88bc23"/>
+			<Metadata name="Document.Ваучер.Attribute.Транспорт" id="6a57f3b7-deb2-4b7f-9cf6-4596677acb84"/>
+			<Metadata name="Document.Ваучер.Attribute.ВремяЗаселения" id="865ee971-6824-40e6-90e1-5ec3a32f27fc"/>
+			<Metadata name="Document.Ваучер.Attribute.Договор" id="9c8706c8-bae4-45e0-bebc-bf17e1695399"/>
+			<Metadata name="Document.Ваучер.Attribute.Трансфер" id="fbd88411-7ccc-4c31-9d6e-0f8b4bffdedb"/>
+		</Metadata>
+		<Metadata name="Document.Ваучер.Form.ФормаВаучера" id="d5c9905b-ed12-41cb-9cbd-4dff9e07808d" configVersion="e9b80496ed62754799802259d1b3322a00000000"/>
+		<Metadata name="Document.Ваучер.Form.ФормаВаучера.Form" id="d5c9905b-ed12-41cb-9cbd-4dff9e07808d.0" configVersion="d22741f22427bd4d9dc05c27a4ae765f00000000"/>
 		<Metadata name="Document.Договоры" id="ff48f105-386b-4023-b5fd-f0968060798f" configVersion="665c0b67d0e8a84389c6ef806ba169bd00000000">
 			<Metadata name="Document.Договоры.Attribute.Сумма" id="10695445-96e9-4da6-b955-015ed5531bd8"/>
 			<Metadata name="Document.Договоры.TabularSection.МаршрутПоездки.Attribute.ДатаОкончания" id="12a47dd9-6b8e-4c83-880d-13c2a4e114e3"/>
@@ -139,10 +148,19 @@
 			<Metadata name="Enum.ВидНомера.EnumValue.Четырехместный" id="c4b0b10d-8dc8-43f2-881d-85daff3c8e24"/>
 			<Metadata name="Enum.ВидНомера.EnumValue.Трехместный" id="fd4d079e-7cec-4ab1-8c62-5859abc03c04"/>
 		</Metadata>
+		<Metadata name="Enum.ВидТранспорта" id="ab75155a-652d-4a3d-b892-3d6e4c7c48c0" configVersion="36ab418400cd574ab5b607c4180d9b3f00000000">
+			<Metadata name="Enum.ВидТранспорта.EnumValue.Поезд" id="16e93e1c-711c-4151-984e-ae14c335ea84"/>
+			<Metadata name="Enum.ВидТранспорта.EnumValue.Автобус" id="6a39803d-2819-42cf-b865-f5b61ca8a7a5"/>
+			<Metadata name="Enum.ВидТранспорта.EnumValue.Самолет" id="ed7ec1b6-ec0e-4af4-8702-4eeff529c8dd"/>
+		</Metadata>
 		<Metadata name="Enum.Должности" id="8f57fe0d-bb2c-48a9-bacd-efe5ebcc9813" configVersion="dc38c06d92831d4cb9287bd3939e82db00000000">
 			<Metadata name="Enum.Должности.EnumValue.Бухгалтер" id="0b39a078-3f51-4285-a842-f2376e3e0bb1"/>
 			<Metadata name="Enum.Должности.EnumValue.Администратор" id="2ccddde3-e8a0-4bee-a41b-173651db46c0"/>
 			<Metadata name="Enum.Должности.EnumValue.Менеджер" id="47218281-a0d6-4fc4-9847-4b2de64f578e"/>
+		</Metadata>
+		<Metadata name="Enum.Кровать" id="7a2e4b08-2733-467a-9d97-b518c2d92061" configVersion="795dbeee815a744597d2b2f4b6f132f700000000">
+			<Metadata name="Enum.Кровать.EnumValue.Двуспальная" id="18d6da1b-d4b9-4858-9c1f-66e8847a7002"/>
+			<Metadata name="Enum.Кровать.EnumValue.Односпальная" id="f655ab79-96b6-456a-8ec9-87d8f3e973a5"/>
 		</Metadata>
 		<Metadata name="Enum.Пол" id="8318e4b5-47bc-48c0-9ee1-382991e7daa8" configVersion="cc25c006f05f4f46b68edd8807e789d600000000">
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="4a5f5ba0-6098-4073-a2df-77a067fe556a"/>
@@ -177,12 +195,12 @@
 			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="7d7af841-eea9-450b-9dee-5ca2cf72cac4"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="dba74650-91ae-4685-b2dc-a57b371166c1" configVersion="36213a0417e1ed48af065ae5359c28b400000000"/>
-		<Metadata name="Role.Администратор" id="d85ad79d-7139-4703-94bb-f666b307dd79" configVersion="ec7cf8de8b97024fbe31a480381f6f8400000000"/>
-		<Metadata name="Role.Администратор.Rights" id="d85ad79d-7139-4703-94bb-f666b307dd79.0" configVersion="341bd824b1fb6a41b0ef8bc1ad87afb600000000"/>
+		<Metadata name="Role.Администратор" id="d85ad79d-7139-4703-94bb-f666b307dd79" configVersion="5a2717fac1b7c94ea57217c56b0d08a800000000"/>
+		<Metadata name="Role.Администратор.Rights" id="d85ad79d-7139-4703-94bb-f666b307dd79.0" configVersion="599b57bc24a3b14791f3d2e3ebea539e00000000"/>
 		<Metadata name="Role.Бухгалтер" id="6880c657-21aa-4df3-9f62-a8467cf9052f" configVersion="84afdefca562eb4fb9778ae57c39fd3800000000"/>
 		<Metadata name="Role.Бухгалтер.Rights" id="6880c657-21aa-4df3-9f62-a8467cf9052f.0" configVersion="ba2c70c91f57d74bb14b3a77ea59618100000000"/>
-		<Metadata name="Role.Менеджер" id="08a0b015-20b4-45fa-a1da-e593230b35a1" configVersion="802ce237512c5345b33347cc44710dfb00000000"/>
-		<Metadata name="Role.Менеджер.Rights" id="08a0b015-20b4-45fa-a1da-e593230b35a1.0" configVersion="9263c301ada17b4e9a7c66ef62211a1d00000000"/>
+		<Metadata name="Role.Менеджер" id="08a0b015-20b4-45fa-a1da-e593230b35a1" configVersion="1574845040d9e040aff9e38ebb0588cf00000000"/>
+		<Metadata name="Role.Менеджер.Rights" id="08a0b015-20b4-45fa-a1da-e593230b35a1.0" configVersion="80c41a8c9560ef40bec125424c718f8900000000"/>
 		<Metadata name="Subsystem.Администрирование" id="ebc2a8b9-341a-4ade-82ef-3dce1e016734" configVersion="0e65fc35e114d04e9f684de79bb5c86200000000"/>
 		<Metadata name="Subsystem.Бухгалтерия" id="e7e259e6-3269-4fea-a11d-f9e5f7a4febf" configVersion="4b9f341e4eaf034480ed4654d5b7d5f700000000"/>
 		<Metadata name="Subsystem.Менеджмент" id="2608212b-99b7-4770-80e5-d0eeea4df59d" configVersion="0d1aeb88432bec419b03556f0cf795e200000000"/>

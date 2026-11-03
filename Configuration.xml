@@ -277,6 +277,8 @@
 			<Enum>ВидНомера</Enum>
 			<Enum>ТипыЗагрузкиExcel</Enum>
 			<Enum>РолиИсполнителей</Enum>
+			<Enum>ВидТранспорта</Enum>
+			<Enum>Кровать</Enum>
 			<DataProcessor>ЗагрузкаКурсовВалютЦБР</DataProcessor>
 			<InformationRegister>КурсыВалют</InformationRegister>
 			<BusinessProcess>ОформлениеПоездки</BusinessProcess>
