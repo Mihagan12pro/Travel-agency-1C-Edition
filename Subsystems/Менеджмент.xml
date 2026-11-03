@@ -21,6 +21,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Клиенты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПаспортныеДанные</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ОрганыВыдачиДокументов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Ваучер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.ОформлениеПоездки</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Task.ЗаданиеИсполнителя</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -269,14 +269,18 @@
 			<Document>ПредварительныеСоглашения</Document>
 			<Document>Договоры</Document>
 			<Document>Оплаты</Document>
+			<Document>Ваучер</Document>
 			<Enum>Пол</Enum>
 			<Enum>СтатусКлиента</Enum>
 			<Enum>Должности</Enum>
 			<Enum>ТипОтеля</Enum>
 			<Enum>ВидНомера</Enum>
 			<Enum>ТипыЗагрузкиExcel</Enum>
+			<Enum>РолиИсполнителей</Enum>
 			<DataProcessor>ЗагрузкаКурсовВалютЦБР</DataProcessor>
 			<InformationRegister>КурсыВалют</InformationRegister>
+			<BusinessProcess>ОформлениеПоездки</BusinessProcess>
+			<Task>ЗаданиеИсполнителя</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
