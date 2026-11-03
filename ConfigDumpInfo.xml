@@ -171,8 +171,8 @@
 		<Metadata name="Language.Русский" id="dba74650-91ae-4685-b2dc-a57b371166c1" configVersion="36213a0417e1ed48af065ae5359c28b400000000"/>
 		<Metadata name="Role.Администратор" id="d85ad79d-7139-4703-94bb-f666b307dd79" configVersion="bc5a4001b9428d4eb2fca705378362e800000000"/>
 		<Metadata name="Role.Администратор.Rights" id="d85ad79d-7139-4703-94bb-f666b307dd79.0" configVersion="83c034f8bbefe1409d6b8e1d6b39be5300000000"/>
-		<Metadata name="Role.Бухгалтер" id="6880c657-21aa-4df3-9f62-a8467cf9052f" configVersion="f2e2c5e52505d64eb0a26f6a95f8a32d00000000"/>
-		<Metadata name="Role.Бухгалтер.Rights" id="6880c657-21aa-4df3-9f62-a8467cf9052f.0" configVersion="3f44095a2525d34db9172c7f9a22604500000000"/>
+		<Metadata name="Role.Бухгалтер" id="6880c657-21aa-4df3-9f62-a8467cf9052f" configVersion="d97d869d99f87542ad2c05f0576e677800000000"/>
+		<Metadata name="Role.Бухгалтер.Rights" id="6880c657-21aa-4df3-9f62-a8467cf9052f.0" configVersion="61cca3b64ceac54ab200b791a452c3f700000000"/>
 		<Metadata name="Role.Менеджер" id="08a0b015-20b4-45fa-a1da-e593230b35a1" configVersion="e7c86c6534f5b94e8d0e01ff55963a1c00000000"/>
 		<Metadata name="Role.Менеджер.Rights" id="08a0b015-20b4-45fa-a1da-e593230b35a1.0" configVersion="a5681b21bfa163478fd62427b814265e00000000"/>
 		<Metadata name="Subsystem.Администрирование" id="ebc2a8b9-341a-4ade-82ef-3dce1e016734" configVersion="3d0f2e20771e0e41a04a803e7321c6c000000000"/>
