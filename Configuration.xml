@@ -245,6 +245,12 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Администрирование</Subsystem>
+			<Subsystem>Менеджмент</Subsystem>
+			<Subsystem>Бухгалтерия</Subsystem>
+			<Role>Администратор</Role>
+			<Role>Бухгалтер</Role>
+			<Role>Менеджер</Role>
 			<CommonModule>ОбщиеФункции</CommonModule>
 			<CommonModule>ОбщиеПроцедуры</CommonModule>
 			<CommonModule>ОбщиеСерверныеПроцедуры</CommonModule>
