@@ -248,6 +248,9 @@
 			<Subsystem>Администрирование</Subsystem>
 			<Subsystem>Менеджмент</Subsystem>
 			<Subsystem>Бухгалтерия</Subsystem>
+			<CommonPicture>АдминистрацияКартинка</CommonPicture>
+			<CommonPicture>СервисКартинка</CommonPicture>
+			<CommonPicture>БухгалтерияКартинка</CommonPicture>
 			<Role>Администратор</Role>
 			<Role>Бухгалтер</Role>
 			<Role>Менеджер</Role>
