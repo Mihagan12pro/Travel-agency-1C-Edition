@@ -319,6 +319,7 @@
 				</Properties>
 			</Attribute>
 			<Form>ФормаВаучера</Form>
+			<Template>ПечатьВаучера</Template>
 		</ChildObjects>
 	</Document>
 </MetaDataObject>

@@ -89,7 +89,7 @@
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР" id="adcbd0fa-ff01-4867-92dc-ce67d38eef09" configVersion="65d04fb557deb147925a2943ae15226900000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма" id="3897a010-9f70-4629-a5ef-b19ee9558a46" configVersion="e96aed106a57d24e8854499a6448571600000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаКурсовВалютЦБР.Form.Форма.Form" id="3897a010-9f70-4629-a5ef-b19ee9558a46.0" configVersion="08cc1336eb707748bebbc4cffc00f15600000000"/>
-		<Metadata name="Document.Ваучер" id="3ff4913b-6333-4fb8-ab34-4e43782f1a3d" configVersion="b673c8f7bd539a4489175926e893bb5a00000000">
+		<Metadata name="Document.Ваучер" id="3ff4913b-6333-4fb8-ab34-4e43782f1a3d" configVersion="2cebf1005f126545926ca4e315d647a300000000">
 			<Metadata name="Document.Ваучер.Attribute.Кровать" id="2a016e75-8174-4bd9-a713-00f2dda798f2"/>
 			<Metadata name="Document.Ваучер.Attribute.ВремяВыезда" id="4137bb72-0a58-48f4-a92b-a3444d88bc23"/>
 			<Metadata name="Document.Ваучер.Attribute.Транспорт" id="6a57f3b7-deb2-4b7f-9cf6-4596677acb84"/>
@@ -97,8 +97,11 @@
 			<Metadata name="Document.Ваучер.Attribute.Договор" id="9c8706c8-bae4-45e0-bebc-bf17e1695399"/>
 			<Metadata name="Document.Ваучер.Attribute.Трансфер" id="fbd88411-7ccc-4c31-9d6e-0f8b4bffdedb"/>
 		</Metadata>
-		<Metadata name="Document.Ваучер.Form.ФормаВаучера" id="d5c9905b-ed12-41cb-9cbd-4dff9e07808d" configVersion="e9b80496ed62754799802259d1b3322a00000000"/>
-		<Metadata name="Document.Ваучер.Form.ФормаВаучера.Form" id="d5c9905b-ed12-41cb-9cbd-4dff9e07808d.0" configVersion="d22741f22427bd4d9dc05c27a4ae765f00000000"/>
+		<Metadata name="Document.Ваучер.Form.ФормаВаучера" id="d5c9905b-ed12-41cb-9cbd-4dff9e07808d" configVersion="a9f2f6acc7c11242804174c9ce8ac96200000000"/>
+		<Metadata name="Document.Ваучер.Form.ФормаВаучера.Form" id="d5c9905b-ed12-41cb-9cbd-4dff9e07808d.0" configVersion="9b17dbbfb23430468642df7fdd4f0b6500000000"/>
+		<Metadata name="Document.Ваучер.ManagerModule" id="3ff4913b-6333-4fb8-ab34-4e43782f1a3d.2" configVersion="763bfd7caca8fa49bec267fe4730e8d900000000"/>
+		<Metadata name="Document.Ваучер.Template.ПечатьВаучера" id="4dc4d2bb-de3f-48eb-bda9-b6e3de8998d3" configVersion="843b7d7b12da834a84e40e0049f81b5a00000000"/>
+		<Metadata name="Document.Ваучер.Template.ПечатьВаучера.Template" id="4dc4d2bb-de3f-48eb-bda9-b6e3de8998d3.0" configVersion="93bab04c9ebdc04e8470c7561030d2ec00000000"/>
 		<Metadata name="Document.Договоры" id="ff48f105-386b-4023-b5fd-f0968060798f" configVersion="665c0b67d0e8a84389c6ef806ba169bd00000000">
 			<Metadata name="Document.Договоры.Attribute.Сумма" id="10695445-96e9-4da6-b955-015ed5531bd8"/>
 			<Metadata name="Document.Договоры.TabularSection.МаршрутПоездки.Attribute.ДатаОкончания" id="12a47dd9-6b8e-4c83-880d-13c2a4e114e3"/>
@@ -195,8 +198,8 @@
 			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="7d7af841-eea9-450b-9dee-5ca2cf72cac4"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="dba74650-91ae-4685-b2dc-a57b371166c1" configVersion="36213a0417e1ed48af065ae5359c28b400000000"/>
-		<Metadata name="Role.Администратор" id="d85ad79d-7139-4703-94bb-f666b307dd79" configVersion="5a2717fac1b7c94ea57217c56b0d08a800000000"/>
-		<Metadata name="Role.Администратор.Rights" id="d85ad79d-7139-4703-94bb-f666b307dd79.0" configVersion="599b57bc24a3b14791f3d2e3ebea539e00000000"/>
+		<Metadata name="Role.Администратор" id="d85ad79d-7139-4703-94bb-f666b307dd79" configVersion="7209f7e724ee36428266817092a2ec0600000000"/>
+		<Metadata name="Role.Администратор.Rights" id="d85ad79d-7139-4703-94bb-f666b307dd79.0" configVersion="263c195cd10c9e4dbc59e730dda0e62d00000000"/>
 		<Metadata name="Role.Бухгалтер" id="6880c657-21aa-4df3-9f62-a8467cf9052f" configVersion="84afdefca562eb4fb9778ae57c39fd3800000000"/>
 		<Metadata name="Role.Бухгалтер.Rights" id="6880c657-21aa-4df3-9f62-a8467cf9052f.0" configVersion="ba2c70c91f57d74bb14b3a77ea59618100000000"/>
 		<Metadata name="Role.Менеджер" id="08a0b015-20b4-45fa-a1da-e593230b35a1" configVersion="1574845040d9e040aff9e38ebb0588cf00000000"/>
