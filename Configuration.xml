@@ -248,6 +248,9 @@
 			<Subsystem>Администрирование</Subsystem>
 			<Subsystem>Менеджмент</Subsystem>
 			<Subsystem>Бухгалтерия</Subsystem>
+			<CommonPicture>АдминистрацияКартинка</CommonPicture>
+			<CommonPicture>СервисКартинка</CommonPicture>
+			<CommonPicture>БухгалтерияКартинка</CommonPicture>
 			<Role>Администратор</Role>
 			<Role>Бухгалтер</Role>
 			<Role>Менеджер</Role>
@@ -269,14 +272,20 @@
 			<Document>ПредварительныеСоглашения</Document>
 			<Document>Договоры</Document>
 			<Document>Оплаты</Document>
+			<Document>Ваучер</Document>
 			<Enum>Пол</Enum>
 			<Enum>СтатусКлиента</Enum>
 			<Enum>Должности</Enum>
 			<Enum>ТипОтеля</Enum>
 			<Enum>ВидНомера</Enum>
 			<Enum>ТипыЗагрузкиExcel</Enum>
+			<Enum>РолиИсполнителей</Enum>
+			<Enum>ВидТранспорта</Enum>
+			<Enum>Кровать</Enum>
 			<DataProcessor>ЗагрузкаКурсовВалютЦБР</DataProcessor>
 			<InformationRegister>КурсыВалют</InformationRegister>
+			<BusinessProcess>ОформлениеПоездки</BusinessProcess>
+			<Task>ЗаданиеИсполнителя</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
